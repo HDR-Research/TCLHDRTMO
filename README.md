@@ -4,7 +4,7 @@
 >
 > <sup>1</sup>Yan Lab, <sup>2</sup>JIANGXI UNIVERSITY OF FINANCE AND ECONOMICS
 
-**⚡We will actively maintain this repository and incorporate new research as it emerges. If you have any questions, please contact [your_email@domain.com]. Welcome to collaborate on academic research and writing papers together.**
+**⚡We will actively maintain this repository and incorporate new research as it emerges. If you have any questions, please contact [qiulinzeng0722@163.com，yuming03133@163.com，3198186694@qq.com]. Welcome to collaborate on academic research and writing papers together.**
 
 ## 📌 What is This Survey About?
 
