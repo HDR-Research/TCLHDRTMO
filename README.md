@@ -1,6 +1,6 @@
 # Taking a Closer Look at High Dynamic Range Tone Mapping in the Wild
 
-> **[A Survey on High Dynamic Range Imaging and Tone Mapping Operators](https://arxiv.org/your-paper-link)**
+> **[A Survey on High Dynamic Range Imaging and Tone Mapping Operators]**
 >
 > <sup>1</sup>Yan Lab, <sup>2</sup>JIANGXI UNIVERSITY OF FINANCE AND ECONOMICS
 
