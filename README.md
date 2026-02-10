@@ -25,3 +25,18 @@ This repository (and associated survey) aims to provide a comprehensive roadmap 
 4.  **Display Adaptation:** Strategies for HDR-to-HDR (e.g., HDR10, Dolby Vision) and HDR-to-LDR rendering.
 
 Our key goal is to organize the state-of-the-art methods in tone mapping and value the evaluation of visual quality in the HDR domain.
+
+## HDR 数据集汇总
+
+| Dataset | Years | Scene | Encode | Resolution | Public availability |
+| :--- | :---: | :---: | :---: | :---: | :--- |
+| **Narwaria** | | 10 | Linear | 1080×1920 | [Link](https://www.repository.cam.ac.uk/items/c2d00e29-07b5-4b67-bcfc-80893b17fa53) |
+| **Korshunov** | | 20 | Linear | 1080×944 | [Link](https://www.repository.cam.ac.uk/items/c2d00e29-07b5-4b67-bcfc-80893b17fa53) |
+| **Funt** | | 112 | ffmpeg-linear | 1421×2141 | [Link](https://www.cs.sfu.ca/~colour/data/funt_hdr/) |
+| **HDRC** | | 80 | ffmpeg-linear | 1080×1920 | [Link](https://github.com/Yliu724/HDRC) |
+| **MIT fiveK** | | 5000 | PQ | 3000×4000 | [Link](https://data.csail.mit.edu/graphics/fivek/) |
+| **HDR-Eye** | | 46 | Linear | 512×512 | [Link](https://www.epfl.ch/labs/mmspg/downloads/hdr-eye/) |
+| **HDR-gallery** | | 8 | ffmpeg-linear | 1536×2048 | [Link](https://pfstools.sourceforge.net/hdr_gallery.html) |
+| **HDRQAD** | | 235 | ffmpeg-linear | 1080×944 | - |
+| **HDRT** | | 10000 | Linear | 5120×3840 | [Link](https://huggingface.co/datasets/jingchao-peng/HDRTDataset) |
+| **SJTU-HDR** | | 16 | PQ | 2160×3840 | [Link](https://medialab.sjtu.edu.cn/files/SJTU%20HDR%20Video%20Sequences/demo_images/) |
