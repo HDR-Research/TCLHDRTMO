@@ -2,7 +2,7 @@
 
 > **[A Survey on High Dynamic Range Imaging and Tone Mapping Operators](https://arxiv.org/your-paper-link)**
 >
-> *<sup>1</sup>Your Lab, <sup>2</sup>University A, <sup>2</sup>University B*
+> *<sup>1</sup>Yan Lab, <sup>2</sup>JIANGXI UNIVERSITY OF FINANCE AND ECONOMICS
 
 **⚡We will actively maintain this repository and incorporate new research as it emerges. If you have any questions, please contact [your_email@domain.com]. Welcome to collaborate on academic research and writing papers together.**
 
