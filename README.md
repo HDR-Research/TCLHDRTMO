@@ -52,8 +52,8 @@ Finally, we discuss the limitations of current objective quality metrics (IQA) f
 | **HDRT** | | 10000 | Linear | 5120×3840 | [Link](https://huggingface.co/datasets/jingchao-peng/HDRTDataset) |
 | **SJTU-HDR** | | 16 | PQ | 2160×3840 | [Link](https://medialab.sjtu.edu.cn/files/SJTU%20HDR%20Video%20Sequences/demo_images/) |
 
-##Traditional & Optimization-based
-###Algorithm & Modeling
+## Traditional & Optimization-based
+### Algorithm & Modeling
 1.	<mark>WardHistAdj</mark> "A Visibility Matching Tone Reproduction Operator for High Dynamic Range Scenes". Larson G W, Rushmeier H, Piatko C. IEEE TVCG 1997. [[Paper]( https://ieeexplore.ieee.org/document/646233)]
 2.	<mark>Ashikhmin</mark> "A Tone Mapping Algorithm for High Contrast Images". Ashikhmin M. EGWR 2002. [[Paper]( https://dl.acm.org/doi/10.5555/581896.581916)]
 3.	<mark>Reinhard</mark> "Photographic Tone Reproduction for Digital Images". Reinhard E, Stark M, Shirley P, et al.. SIGGRAPH 2002. [[Paper]( https://dl.acm.org/doi/10.1145/566654.566575)]
