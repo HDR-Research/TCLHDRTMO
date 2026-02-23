@@ -43,7 +43,7 @@ At the core of the image processing pipeline, HDR images are uniformly modeled a
 
 At the output and display stage, the workflow diverges into two typical processing paths depending on target display capabilities and application requirements. On the one hand, HDR-to-HDR processing focuses on achieving perceptually consistent reproduction across different HDR standards and display ecosystems. This is commonly realized by incorporating display-oriented enhancement frameworks such as HDR10, HDR10+, and Dolby Vision, which aim to optimize luminance, contrast, and color consistency across devices.On the other hand, HDR-to-LDR tone mapping addresses dynamic range compression as its core challenge. This category includes global tone mapping operators, local adaptive methods, and deep neural network–based TMO models. The primary objective is to preserve the structural content, fine details, and subjective visual quality of the original HDR scene to the greatest extent possible under constrained display conditions.
 
-## HDR 数据集汇总
+## HDR Dataset Summary
 
 | Dataset | Years | Scene | Encode | Resolution | Public availability |
 | :--- | :---: | :---: | :---: | :---: | :--- |
