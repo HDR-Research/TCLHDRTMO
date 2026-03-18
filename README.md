@@ -89,3 +89,8 @@ At the output and display stage, the workflow diverges into two typical processi
 9.	<mark>TMO-GAN</mark> "A Generative Adversarial Network Based Tone Mapping Operator for 4K HDR Images". Zhang J, Wang Y, Tohidypour H, et al.. ICNC 2023. [[Paper]( https://ieeexplore.ieee.org/document/10074176)]
 10.	<mark>G-SemTMO</mark> "G-SemTMO: Tone Mapping with a Trainable Semantic Graph". Goswami A, Bernard E, Hauser W, et al.. arXiv 2024. [[Paper]( https://arxiv.org/abs/2208.14113)]
 11.	<mark>DPRNet</mark> "Learning Differential Pyramid Representation for Tone Mapping". Yang Q, Zhang F, Li Y, et al.. AAAI 2024. [[Paper]( https://arxiv.org/abs/2412.01463)]
+
+## Image Quality Assessment Methods
+1.	<mark>NLPD</mark> "Perceptually Optimized Image Rendering". Laparra V, Berardino A, Ballé J, et al.. JOSA A 2017. [[Paper](https://arxiv.org/pdf/1701.06641)]
+2.	<mark>TMQI</mark> "Objective Quality Assessment of Tone-Mapped Images". Yeganeh H, Wang Z. IEEE TIP 2013. [[Paper](https://ece.uwaterloo.ca/~z70wang/research/tmqi/TIP_TMQI.pdf)]
+3.	<mark>TMQI-II</mark> "High Dynamic Range Image Compression by Optimizing Tone Mapped Image Quality Index". Ma K, Yeganeh H, Zeng K, et al.. IEEE TIP 2015. [[Paper](https://ece.uwaterloo.ca/~z70wang/publications/TIP_TMO.pdf)]
