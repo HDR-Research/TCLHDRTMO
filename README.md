@@ -14,7 +14,7 @@
 
 <p align="center">
     <b>Figure 1: The Physical Basis of HDR.</b> <br>
-    The real world exhibits a vast dynamic range of luminance, from starlight ($10^{-6} cd/m^2$) to sunlight ($10^{9} cd/m^2$). However, standard displays (CRT/LCD) cover a much narrower range. <b>Tone Mapping Operators (TMOs)</b> serve as the critical bridge, mimicking the human visual system's adaptive capabilities to compress this wide dynamic range into the visible gamut of display devices.
+    The real world exhibits a vast dynamic range of luminance, from starlight ($10^{-6} cd/m^2$) to sunlight ($10^{9} cd/m^2$). However, standard displays (CRT/LCD) cover a much narrower range. <b>Tone Mapping Operators (TMOs)</b> serve as the critical bridge, mimicking the human visual system's adaptive capabilities to compress this wide dynamic range into the visible gamut of display devices.Inspired by a presentation by Rafał Mantiuk, available online: [(https://www.cl.cam.ac.uk/~rkm38/pdfs/tone_mapping.pdf)]
 </p>
 
 <br>
