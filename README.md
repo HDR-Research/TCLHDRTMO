@@ -23,7 +23,7 @@ With the steady advancement of photographic technologies and the continuous impr
 
 
 <p align="center">
-    <img src="TMOpipline.png" width="100%" alt="HDR Imaging Pipeline">
+    <img src="TMOpipline.jpg" width="100%" alt="HDR Imaging Pipeline">
 </p>
 
 <p align="center">
