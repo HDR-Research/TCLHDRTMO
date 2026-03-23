@@ -1,4 +1,4 @@
-# Taking a Closer Look at High Dynamic Range Tone Mapping in the Wild
+# A Comprehensive Survey on High Dynamic RangeTone Mapping: From Acquisition to Evaluation
 
 > **[A Survey on High Dynamic Range Imaging and Tone Mapping Operators]**
 >
