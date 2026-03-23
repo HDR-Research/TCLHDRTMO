@@ -28,7 +28,11 @@ With the steady advancement of photographic technologies and the continuous impr
 
 <p align="center">
     <b>Figure 2: The Modern HDR Processing Pipeline.</b> <br>
-    An overview of HDR image processing pipeline. (1) Acquisition: the raw HDR images (Raw or Log format) are usually captured via professional cameras or the so-called multi-exposure fusion methods. (2) Processing: physical luminance is then concerted to digitial luminance using a transfer function such as Perceptual Quantizer (PQ) and Hybrid Log-Gamma (HLG). (3) LTM Core: the central tone mapping stage which compresses HDR images to various dynamic ranges. (4) Various Dynamic Range Displays: the tone-mapped HDR images are shown in HDR (eg, HDR10 and Dolby Vision) or LDR displays.
+    An overview of HDR image processing pipeline. 
+    (1) Acquisition: the raw HDR images (Raw or Log format) are usually captured via professional cameras or the so-called multi-exposure fusion methods. 
+    (2) Processing: physical luminance is then concerted to digitial luminance using a transfer function such as Perceptual Quantizer (PQ) and Hybrid Log-Gamma (HLG). 
+    (3) LTM Core: the central tone mapping stage which compresses HDR images to various dynamic ranges. 
+    (4) Various Dynamic Range Displays: the tone-mapped HDR images are shown in HDR (eg, HDR10 and Dolby Vision) or LDR displays.
 </p>
 
 <br>
