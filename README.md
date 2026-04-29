@@ -124,7 +124,7 @@ Due to the diversity of HDR data formats, industrial standards, and dynamic rang
 
 ## :love_letter: Acknowledgement
 
-We thanks the following public repositories: [HDR-gallery](https://pfstools.sourceforge.net/hdr_gallery.html), [Funt](https://www.cs.sfu.ca/~colour/data/funt_hdr/), [MIT fiveK](https://data.csail.mit.edu/graphics/fivek/), [Narwaria](https://www.repository.cam.ac.uk/items/c2d00e29-07b5-4b67-bcfc-80893b17fa53), [Korshunov](https://www.repository.cam.ac.uk/items/c2d00e29-07b5-4b67-bcfc-80893b17fa53), [HDR-Eye](https://www.epfl.ch/labs/mmspg/downloads/hdr-eye/), [SJTU-HDR](https://medialab.sjtu.edu.cn/files/SJTU%20HDR%20Video%20Sequences/demo_images/), [HDRC](https://github.com/Yliu724/HDRC), [HDRT](https://huggingface.co/datasets/jingchao-peng/HDRTDataset)
+We thanks the following public dataset: [HDR-gallery](https://pfstools.sourceforge.net/hdr_gallery.html), [Funt](https://www.cs.sfu.ca/~colour/data/funt_hdr/), [MIT fiveK](https://data.csail.mit.edu/graphics/fivek/), [Narwaria](https://www.repository.cam.ac.uk/items/c2d00e29-07b5-4b67-bcfc-80893b17fa53), [Korshunov](https://www.repository.cam.ac.uk/items/c2d00e29-07b5-4b67-bcfc-80893b17fa53), [HDR-Eye](https://www.epfl.ch/labs/mmspg/downloads/hdr-eye/), [SJTU-HDR](https://medialab.sjtu.edu.cn/files/SJTU%20HDR%20Video%20Sequences/demo_images/), [HDRC](https://github.com/Yliu724/HDRC), [HDRT](https://huggingface.co/datasets/jingchao-peng/HDRTDataset)
 
 ## :e-mail: Contact
 
