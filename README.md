@@ -54,7 +54,7 @@ Due to the diversity of HDR data formats, industrial standards, and dynamic rang
 | **HDRQAD** | 2025 | 147 | ffmpeg-linear | 1080×944 | - |
 | **HDRT** | 2025 | 10000 | Linear | 5120×3840 | [Link](https://huggingface.co/datasets/jingchao-peng/HDRTDataset) |
 
-## Quantitative comparison of tone-mapping methods using TMQI, TMQI-Ⅱ, and NLPD metrics. The best results for each category are highlighted in bold.
+## Quantitative comparison of tone-mapping methods using TMQI, TMQI-Ⅱ, and NLPD metrics. 
 | Method               | TMQI ↑  | S1     | N1     | TMQI-Ⅱ ↑ | S2     | N2     | NLPD ↓  |
 |----------------------|---------|--------|--------|------------------|--------|--------|---------|
 | Gamma                | 0.7688  | 0.7618 | 0.1194 | 0.4029           | 0.5971 | 0.2088 | 0.1257  |
