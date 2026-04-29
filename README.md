@@ -54,25 +54,26 @@ Due to the diversity of HDR data formats, industrial standards, and dynamic rang
 | **HDRQAD** | 2025 | 147 | ffmpeg-linear | 1080×944 | - |
 | **HDRT** | 2025 | 10000 | Linear | 5120×3840 | [Link](https://huggingface.co/datasets/jingchao-peng/HDRTDataset) |
 
-## Sample Image Showcase
+## :camera:Dataset Sample Images
 <div align="center">
   <table>
     <tr>
-      <td><img src="sample1.jpg" width="180px"><p align="center">sample1</p></td>
-      <td><img src="sample2.jpg" width="180px"><p align="center">sample2</p></td>
-      <td><img src="sample3.jpg" width="180px"><p align="center">sample3</p></td>
-      <td><img src="sample4.jpg" width="180px"><p align="center">sample4</p></td>
-      <td><img src="sample5.jpg" width="180px"><p align="center">sample5</p></td>
+      <td><img src="Experiment_Images_Samples/sample1.jpg" width="180px"><p align="center"></p></td>
+      <td><img src="Experiment_Images_Samples/sample2.jpg" width="180px"><p align="center"></p></td>
+      <td><img src="Experiment_Images_Samples/sample3.jpg" width="180px"><p align="center"></p></td>
+      <td><img src="Experiment_Images_Samples/sample4.jpg" width="180px"><p align="center"></p></td>
+      <td><img src="Experiment_Images_Samples/sample5.jpg" width="180px"><p align="center"></p></td>
     </tr>
     <tr>
-      <td><img src="sample6.jpg" width="180px"><p align="center">sample6</p></td>
-      <td><img src="sample7.jpg" width="180px"><p align="center">sample7</p></td>
-      <td><img src="sample8.jpg" width="180px"><p align="center">sample8</p></td>
-      <td><img src="sample9.jpg" width="180px"><p align="center">sample9</p></td>
-      <td><img src="sample10.jpg" width="180px"><p align="center">sample10</p></td>
+      <td><img src="Experiment_Images_Samples/sample6.jpg" width="180px"><p align="center"></p></td>
+      <td><img src="Experiment_Images_Samples/sample7.jpg" width="180px"><p align="center"></p></td>
+      <td><img src="Experiment_Images_Samples/sample8.jpg" width="180px"><p align="center"></p></td>
+      <td><img src="Experiment_Images_Samples/sample9.jpg" width="180px"><p align="center"></p></td>
+      <td><img src="Experiment_Images_Samples/sample10.jpg" width="180px"><p align="center"></p></td>
     </tr>
   </table>
 </div>
+Ten representative examples from the 1,000-image HDR dataset constructed in this study. For visualization in the manuscript, the HDR images are displayed after Gamma correction, as native PQ-encoded HDR content cannot be faithfully presented on conventional SDR media.
 
 ## :cupid:Quantitative comparison of tone-mapping methods using TMQI, TMQI-Ⅱ, and NLPD metrics
 | Method               | TMQI ↑  | S1     | N1     | TMQI-Ⅱ ↑ | S2     | N2     | NLPD ↓  |
