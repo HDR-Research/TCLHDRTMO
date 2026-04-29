@@ -39,7 +39,7 @@ To reproduce the luminance and detail information of HDR images as faithfully as
 
 Due to the diversity of HDR data formats, industrial standards, and dynamic range displays, as well as the fast growing development of HDR tone mapping techniques, it is very hard for us to have a clear holistic understanding about HDR tone mapping. Fortunately, Eilertsen and Han present two comprehensive reviews of TMOs, mapping the entire domain. However, the first study was conducted about ten years ago, and the second study lacks a clear description of the complete pipeline of HDR tone mapping. To address this gap and inspired by these surveys about visual quality assessment, this survey presents a comprehensive review of HDR tone mapping, and the major contributions can be summarized as follows: (Ⅰ) we provide a comprehensive overview of existing HDR datasets, with a particular focus on their format encodings, standards, display pipelines, and associated challenges; (Ⅱ) we systematically review and categorize existing HDR TMOs, offering a structured and comprehensive analysis of their methodological characteristics; (Ⅲ) we conduct a comparative evaluation of TMOs and present quantitative results and qualitative analyzes.
 
-## HDR Dataset Summary
+## :file_folder:HDR Dataset Summary
 
 | Dataset | Years | Images | Encoding | Resolution | Public availability |
 | :--- | :---: | :---: | :---: | :---: | :--- |
@@ -54,7 +54,7 @@ Due to the diversity of HDR data formats, industrial standards, and dynamic rang
 | **HDRQAD** | 2025 | 147 | ffmpeg-linear | 1080×944 | - |
 | **HDRT** | 2025 | 10000 | Linear | 5120×3840 | [Link](https://huggingface.co/datasets/jingchao-peng/HDRTDataset) |
 
-## Quantitative comparison of tone-mapping methods using TMQI, TMQI-Ⅱ, and NLPD metrics
+## :cupid:Quantitative comparison of tone-mapping methods using TMQI, TMQI-Ⅱ, and NLPD metrics
 | Method               | TMQI ↑  | S1     | N1     | TMQI-Ⅱ ↑ | S2     | N2     | NLPD ↓  |
 |----------------------|---------|--------|--------|------------------|--------|--------|---------|
 | Gamma                | 0.7688  | 0.7618 | 0.1194 | 0.4029           | 0.5971 | 0.2088 | 0.1257  |
@@ -81,6 +81,8 @@ Due to the diversity of HDR data formats, industrial standards, and dynamic rang
 | Unpaired-TMO         | 0.8772  | 0.8088 | 0.5618 | 0.6351           | 0.7849 | 0.4854 | 0.1620  |
 | ZSDH                 | 0.7547  | 0.6376 | 0.1937 | 0.3271           | 0.6082 | 0.0459 | 0.1831  |
 | PS-TMO               | 0.8721  | 0.8045 | 0.5265 | 0.4682           | 0.6463 | 0.2901 | 0.1625  |
+
+## :book:Relevant methodological literature included in this review
 
 ## Traditional & Optimization-based
 ### Algorithm & Modeling
