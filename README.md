@@ -112,6 +112,39 @@ Comparison of tone-mapping methods using TMQI, TMQI-Ⅱ, and NLPD metrics.
 | PS-TMO               | 0.8721  | 0.8045 | 0.5265 | 0.4682           | 0.6463 | 0.2901 | 0.1625  |
 
 ---
+## :raising_hand: A User Study
+Comparison between subjective JOD ranking and objective metric rankings.Δ rank is computed as JOD rank minus the corresponding objective metric rank.
+
+| Method               | JOD ↑   | JOD rank | TMQI rank | ΔTMQI rank | TMQI-Roman II rank | ΔTMQI-Roman II rank | NLPD rank | ΔNLPD rank |
+|----------------------|---------|----------|-----------|------------|---------------------|----------------------|-----------|------------|
+| Drago03              | 0.7236  | 1        | 13        | -12        | 3                   | -2                   | 11        | -10        |
+| Kim08                | 0.6187  | 2        | 15        | -13        | 9                   | -7                   | 12        | -10        |
+| Exponential          | 0.4829  | 3        | 10        | -7         | 1                   | +2                   | 6         | -3         |
+| TMO-GAN              | 0.4010  | 4        | 16        | -12        | 11                  | -7                   | 5         | -1         |
+| Reinhard02 (Global)  | 0.3971  | 5        | 9         | -4         | 7                   | -2                   | 14        | -9         |
+| Lischinski06         | 0.3952  | 6        | 3         | +3         | 2                   | +4                   | 7         | -1         |
+| UnCLTMO              | 0.3838  | 7        | 4         | +3         | 10                  | -3                   | 13        | -6         |
+| Unpaired-TMO         | 0.3753  | 8        | 5         | +3         | 8                   | 0                    | 15        | -7         |
+| BestExp (Hist)       | 0.3279  | 9        | 12        | -3         | 6                   | +3                   | 4         | +5         |
+| BestExp (Mean)       | 0.2114  | 10       | 17        | -7         | 12                  | -2                   | 3         | +7         |
+| Ward                 | 0.2045  | 11       | 2         | +9         | 5                   | +6                   | 16        | -5         |
+| Ashikhmin02          | 0.2018  | 12       | 11        | +1         | 15                  | -3                   | 18        | -6         |
+| Shibata16            | 0.1801  | 13       | 7         | +6         | 13                  | 0                    | 19        | -6         |
+| DRLTM                | 0.0046  | 14       | 8         | +6         | 18                  | -4                   | 20        | -6         |
+| Reinhard02 (Local)   | -0.0317 | 15       | 1         | +14        | 4                   | +11                  | 8         | +7         |
+| Logarithmic          | -0.0969 | 16       | 18        | -2         | 20                  | -4                   | 21        | -5         |
+| Reinhard05           | -0.1203 | 17       | 22        | -5         | 21                  | -4                   | 9         | +8         |
+| Gamma                | -0.1325 | 18       | 19        | -1         | 17                  | +1                   | 2         | +16        |
+| Raman09              | -0.6184 | 19       | 20        | -1         | 19                  | 0                    | 22        | -3         |
+| Le21                 | -0.8817 | 20       | 14        | +6         | 16                  | +4                   | 10        | +10        |
+| PS-TMO               | -0.9974 | 21       | 6         | +15        | 14                  | +7                   | 17        | +4         |
+| G-SemTMO             | -1.0018 | 22       | 23        | -1         | 23                  | -1                   | 1         | +21        |
+| ZSDH                 | -1.4123 | 23       | 21        | +2         | 22                  | +1                   | 23        | 0          |
+
+To further analyze the consistency between subjective perception and objective evaluation, Table compares the JOD-based ranking with the rankings induced by TMQI, TMQI-II, and NLPD. Here, Δ rank is defined as the difference between the subjective JOD rank and the corresponding objective metric rank. A large absolute value of Δ rank indicates a pronounced inconsistency between human perceptual preference and the prediction of the objective metric.
+
+Several observations can be drawn from Table. First, substantial rank deviations can be found for a number of methods. For example, Drago03 and Kim08 achieve the top two positions in the subjective study, while their TMQI ranks are only 13 and 15, respectively. Similarly, TMO-GAN is ranked fourth in terms of JOD, but only 16th according to TMQI. These results suggest that methods favored by human observers are not always assigned high scores by existing objective metrics. Second, some methods that perform strongly under objective evaluation do not obtain correspondingly high perceptual preference. A representative example is Reinhard02 (Local), which ranks first under TMQI but only 15th in the subjective experiment. In a similar manner, Gamma and G-SemTMO exhibit relatively favorable NLPD ranks but remain near the bottom of the JOD ranking. These findings suggest that, although objective metrics are useful for quantitative benchmarking, they are still limited in capturing the visual factors that dominate human judgment, such as natural brightness impression, local visibility, and artifact suppression. In particular, methods that overly emphasize structural fidelity or optimize a specific perceptual objective may still produce visually less preferred results when the global luminance statistics deviate from natural viewing expectations. Conversely, methods with relatively simple formulations may obtain favorable subjective scores if they provide a more balanced tradeoff between contrast compression and visual naturalness.
+
 
 ## 📚 Relevant Methodological Literature
 
