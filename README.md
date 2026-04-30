@@ -175,4 +175,4 @@ If you have any questions or are interested in collaboration, please feel free t
 
 [![Email Qiulin Zeng](https://img.shields.io/badge/Email-qiulinzeng0722@163.com-blue?style=flat-square&logo=mail.ru)](mailto:qiulinzeng0722@163.com)
 [![Email Yuming Fang](https://img.shields.io/badge/Email-yuming03133@163.com-blue?style=flat-square&logo=mail.ru)](mailto:yuming03133@163.com)
-[![Email 3198186694](https://img.shields.io/badge/Email-3198186694@qq.com-blue?style=flat-square&logo=tencentqq)](mailto:XuXiaoLv2003@163.com)
+[![Email 3198186694](https://img.shields.io/badge/Email-XuXiaoLv2003@163.com)-blue?style=flat-square&logo=tencentqq)](mailto:XuXiaoLv2003@163.com)
