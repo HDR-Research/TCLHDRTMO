@@ -2,11 +2,7 @@
 
 # 🌟 A Comprehensive Survey on High Dynamic Range Tone Mapping: From Acquisition to Evaluation
 
-**Yan Lab** @ Jiangxi University of Finance and Economics
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+**Jiebin Yan,Qiulin Zeng,Ming Yu,Xiaolv Xu,Yaohua Zha,Xuelin Liu,Yuming Fang**
 
 **⚡ We will actively maintain this repository and incorporate new research as it emerges. Welcome to collaborate on academic research and writing papers together!**
 
