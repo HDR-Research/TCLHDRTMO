@@ -174,5 +174,5 @@ We sincerely thank the creators and maintainers of the following public datasets
 If you have any questions or are interested in collaboration, please feel free to reach out:
 
 [![Email Qiulin Zeng](https://img.shields.io/badge/Email-qiulinzeng0722@163.com-blue?style=flat-square&logo=mail.ru)](mailto:qiulinzeng0722@163.com)
-[![Email Yuming Fang](https://img.shields.io/badge/Email-yuming03133@163.com-blue?style=flat-square&logo=mail.ru)](mailto:yuming03133@163.com)
-[![Email 3198186694](https://img.shields.io/badge/Email-XuXiaoLv2003@163.com)-blue?style=flat-square&logo=mail.ru)](mailto:XuXiaoLv2003@163.com)
+[![Email Ming Yu](https://img.shields.io/badge/Email-yuming03133@163.com-blue?style=flat-square&logo=mail.ru)](mailto:yuming03133@163.com)
+[![Email XiaoLv Xu](https://img.shields.io/badge/Email-XuXiaoLv2003@163.com-blue?style=flat-square&logo=mail.ru)](mailto:XuXiaoLv2003@163.com)
