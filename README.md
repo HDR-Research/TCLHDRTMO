@@ -13,7 +13,7 @@
 ## 📌 What is This Survey About?
 
 <p align="center">
-    <img src="TMO.jpg" width="85%" alt="Luminance Range and Human Vision">
+    <img src="TMO.png" width="85%" alt="Luminance Range and Human Vision">
 </p>
 
 > **Figure 1: The Physical Basis of HDR.**
