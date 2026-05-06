@@ -2,7 +2,7 @@
 
 # 🌟 A Comprehensive Survey on High Dynamic Range Tone Mapping: From Acquisition to Evaluation
 
-**Jiebin Yan,Qiulin Zeng,Ming Yu,Xiaolv Xu,Yaohua Zha,Xuelin Liu,Yuming Fang**
+**Jiebin Yan,Qiulin Zeng,Yaohua Zha,Ming Yu,Xiaolv Xu,Xuelin Liu,Yuming Fang**
 
 **⚡ We will actively maintain this repository and incorporate new research as it emerges. Welcome to collaborate on academic research and writing papers together!**
 
