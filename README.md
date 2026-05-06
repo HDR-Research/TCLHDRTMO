@@ -193,6 +193,9 @@ Several observations can be drawn from Table. First, substantial rank deviations
 1. **NLPD:** "Perceptually Optimized Image Rendering". *JOSA A 2017*. [[Paper](https://arxiv.org/pdf/1701.06641)]
 2. **TMQI:** "Objective Quality Assessment of Tone-Mapped Images". *IEEE TIP 2013*. [[Paper](https://ece.uwaterloo.ca/~z70wang/research/tmqi/TIP_TMQI.pdf)]
 3. **TMQI-II:** "High Dynamic Range Image Compression by Optimizing Tone Mapped Image Quality Index". *IEEE TIP 2015*. [[Paper](https://ece.uwaterloo.ca/~z70wang/publications/TIP_TMO.pdf)]
+4. **HDR-VDP-2**: "A Calibrated Visual Metric for Visibility and Quality Predictions in All Luminance Conditions". *ACM TOG 2011*. [[Paper](https://www.cl.cam.ac.uk/~rkm38/pdfs/mantiuk11hdrvdp2.pdf)]
+5. **HDR-VDP-2.2**: "A Calibrated Method for Objective Quality Prediction of High-Dynamic Range and Standard Images". *Journal of Electronic Imaging 2015*. [[Paper](https://www.cl.cam.ac.uk/~rkm38/pdfs/narwaria15hdrvdp22.pdf)]
+6. **HDR-VDP-3**: "A Multi-Metric for Predicting Image Differences, Quality and Contrast Distortions in High Dynamic Range and Standard Content". *arXiv 2023*. [[Paper](https://arxiv.org/pdf/2304.13625)]
 </details>
 
 ---
